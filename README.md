@@ -10,8 +10,8 @@ to check weather a mobile number have whatsapp account or not<br>
     * if you have to chat with lot of people, but you dont want them to see your status updates, then use this<br>
 
 
-⚠️🚫make sure you have removed blank spaces between the number
+⚠️🚫make sure you have removed blank spaces between the number<br>
 ⚠️🚫this wont work with blank spaces in between numbers
 
-I am ***not*** a professional
+I am ***not*** a professional<br>
 **install @ your own risk**
