@@ -4,17 +4,17 @@ to check weather a mobile number have whatsapp account or not<br>
 
 # instillation
 
-*`git clone https://github.com/arNparad0x/whatsapp-existance-checker`
+* `git clone https://github.com/arNparad0x/whatsapp-existance-checker`
 
-*`cd whatsapp-existance-checker`
+* `cd whatsapp-existance-checker`
 
-*`chmod +x waxst.sh`
+* `chmod +x waxst.sh`
 
-*`sh waxst.sh`
+* `sh waxst.sh`
 
 **single command instillation**
 
-*`git clone https://github.com/arNparad0x/whatsapp-existance-checker && cd whatsapp-existance-checker && chmod +x waxst.sh && sh waxst.sh`
+* `git clone https://github.com/arNparad0x/whatsapp-existance-checker && cd whatsapp-existance-checker && chmod +x waxst.sh && sh waxst.sh`
 
 # use
 
