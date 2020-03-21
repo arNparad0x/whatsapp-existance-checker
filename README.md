@@ -2,6 +2,8 @@
 to check weather a mobile number have whatsapp account or not<br>
 ***[for termux users only]***
 
+
+
 ★ this tool is used to check if a phone number has whatsapp account or not<br>
 ★ **without** saving the contact<br>
 ★ if you have a lot of numbers to check if any of those have whatsapp account,<br>
